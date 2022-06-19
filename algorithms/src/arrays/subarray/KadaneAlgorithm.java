@@ -1,6 +1,6 @@
 package arrays.subarray;
 
-//  Print largest contiguous array sum
+//  Print largest contiguous array
 
 public class KadaneAlgorithm
 {
